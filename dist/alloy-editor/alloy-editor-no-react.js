@@ -1039,7 +1039,7 @@ function _typeof(obj) { return obj && typeof Symbol !== "undefined" && obj.const
 })();
 'use strict';
 
-function _typeof(obj) { return obj && typeof Symbol !== "undefined" && obj.constructor === Symbol ? "symbol" : typeof obj; }
+//function _typeof(obj) { return obj && typeof Symbol !== "undefined" && obj.constructor === Symbol ? "symbol" : typeof obj; }
 
 (function () {
     'use strict';
@@ -4982,7 +4982,7 @@ CKEDITOR.tools.buildTableMap = function (table) {
 })();
 'use strict';
 
-function _typeof(obj) { return obj && typeof Symbol !== "undefined" && obj.constructor === Symbol ? "symbol" : typeof obj; }
+//function _typeof(obj) { return obj && typeof Symbol !== "undefined" && obj.constructor === Symbol ? "symbol" : typeof obj; }
 
 (function () {
     'use strict';
